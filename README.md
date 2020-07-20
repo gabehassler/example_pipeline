@@ -2,7 +2,7 @@
 
 How to use this code:
 
-  1. Run the `dependencies.jl` file in the `dep` folder.
+  1. Run the `dependencies.jl` file in the `dep` folder (or just manually add the packages you need by looking for all the imported packages in `not_julia.jl`).
   2. Run the `not_julia.jl` file in the main folder in this repo.
       - If you want the pipeline to actually run, then you need to choose appropriately formated files for the __Import Data__, __Import Tree__, and __Import Plotting Labels__ buttons. To run an example, go to the `data` directory of this repository and select `yeast_continuous.csv` for __Import Data__, `yeast.txt` for __Import Tree__, and `yeast_labels.csv` for __Import Plotting Labels__.
   
