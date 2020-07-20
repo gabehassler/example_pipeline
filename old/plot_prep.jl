@@ -1,6 +1,6 @@
 using CSV, DataFrames, Statistics
 using BeastUtils.Logs
-
+cd(@__DIR__)
 function process_log(log_path::String, csv_path::String, data_path::String,
                      labels_path::String; burnin = 0.1, keep_threshold = 0.9)
 
@@ -58,6 +58,8 @@ function process_log(log_path::String, csv_path::String, data_path::String,
     df.cat = repeat(trait_types, inner=k)
     CSV.write(csv_path, df)
 end
+processed_path = "old_test_svd.log"
+data_path = raw"C:\Users\gabeh\OneDrive\Documents\Biomath\Julia tutorial\data\yeast_continuous.csv"
 
 labels_path = raw"C:\Users\gabeh\OneDrive\Documents\Biomath\Julia tutorial\data\yeast_labels.csv"
 labels_df = CSV.read(labels_path)
