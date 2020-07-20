@@ -1,0 +1,165 @@
+L,col,row,trait,cat
+,1,1,KCl (500 mM),environmental stress
+,1,2,KCl (500 mM),environmental stress
+0.3512004857705033,2,1,KCl (1000 mM),environmental stress
+,2,2,KCl (1000 mM),environmental stress
+0.9840131284448423,3,1,KCl (1500 mM),environmental stress
+-0.12057873349041213,3,2,KCl (1500 mM),environmental stress
+0.818472457720144,4,1,NaCl (250 mM),environmental stress
+-0.25466486291039675,4,2,NaCl (250 mM),environmental stress
+0.6724150522318293,5,1,NaCl (500 mM),environmental stress
+-0.19338628895677054,5,2,NaCl (500 mM),environmental stress
+0.4780863049840603,6,1,NaCl (1000 mM),environmental stress
+-0.17281498058980843,6,2,NaCl (1000 mM),environmental stress
+0.4716010856692022,7,1,4°C,environmental stress
+,7,2,4°C,environmental stress
+,8,1,16°C,environmental stress
+,8,2,16°C,environmental stress
+-0.3046320236797035,9,1,30°C,environmental stress
+,9,2,30°C,environmental stress
+1.3840433084483912,10,1,40°C,environmental stress
+,10,2,40°C,environmental stress
+0.9854900371024198,11,1,Ethanol (5%),environmental stress
+-0.11419841082257697,11,2,Ethanol (5%),environmental stress
+1.0612259140378353,12,1,Ethanol (7%),environmental stress
+-0.16990436560896094,12,2,Ethanol (7%),environmental stress
+1.4712243026450706,13,1,Ethanol (9%),environmental stress
+-0.1949859118101564,13,2,Ethanol (9%),environmental stress
+1.3773019005704958,14,1,Ethanol (10%),environmental stress
+-0.15734229986287906,14,2,Ethanol (10%),environmental stress
+1.397447906209594,15,1,Ethanol (11%),environmental stress
+,15,2,Ethanol (11%),environmental stress
+1.2697397602120641,16,1,Ethanol (12%),environmental stress
+,16,2,Ethanol (12%),environmental stress
+1.3574811253565178,17,1,Sulfite (1.5 mM),environmental stress
+,17,2,Sulfite (1.5 mM),environmental stress
+1.2694171362319093,18,1,Sulfite (2.25 mM),environmental stress
+0.302095112104208,18,2,Sulfite (2.25 mM),environmental stress
+1.0299284736301342,19,1,Sulfite (3.0 mM),environmental stress
+0.3631245463962714,19,2,Sulfite (3.0 mM),environmental stress
+1.6270290565624301,20,1,Glucose (46%),environmental stress
+0.9349626321992908,20,2,Glucose (46%),environmental stress
+1.6246924521399015,21,1,Sorbitol (46%),environmental stress
+0.7440987014584084,21,2,Sorbitol (46%),environmental stress
+1.483095061176697,22,1,Glucose (48%),environmental stress
+1.2331729492350176,22,2,Glucose (48%),environmental stress
+1.5683568678152953,23,1,Sorbitol (48%),environmental stress
+1.1109002948870363,23,2,Sorbitol (48%),environmental stress
+1.2287842978055756,24,1,Glucose (50%),environmental stress
+1.2614818587573347,24,2,Glucose (50%),environmental stress
+1.3834015153604797,25,1,Sorbitol (50%),environmental stress
+1.3095514193340936,25,2,Sorbitol (50%),environmental stress
+1.0554170019547269,26,1,Copper (0.075 mM),environmental stress
+,26,2,Copper (0.075 mM),environmental stress
+0.9340993134877549,27,1,Cadmium (0.3 mM),environmental stress
+-0.11034246414087133,27,2,Cadmium (0.3 mM),environmental stress
+0.5195345311626759,28,1,Cadmium (0.4 mM),environmental stress
+,28,2,Cadmium (0.4 mM),environmental stress
+0.38838751273125866,29,1,Cadmium (0.5 mM),environmental stress
+,29,2,Cadmium (0.5 mM),environmental stress
+1.1376800843693433,30,1,Actidione (0.2 mg/L),environmental stress
+-0.20104520204081774,30,2,Actidione (0.2 mg/L),environmental stress
+0.7691685448940541,31,1,Actidione (0.4 mg/L),environmental stress
+-0.1901136397602092,31,2,Actidione (0.4 mg/L),environmental stress
+0.6644438898903648,32,1,Actidione (0.5 mg/L),environmental stress
+-0.2573970248114215,32,2,Actidione (0.5 mg/L),environmental stress
+,33,1,Acetic acid (50 mM),environmental stress
+-0.46524420295290003,33,2,Acetic acid (50 mM),environmental stress
+1.431315682639679,34,1,Acetic acid (75 mM),environmental stress
+-0.45028791179121513,34,2,Acetic acid (75 mM),environmental stress
+1.4551277952113184,35,1,Acetic acid (100 mM),environmental stress
+-0.3227689633994407,35,2,Acetic acid (100 mM),environmental stress
+1.1049128831968777,36,1,Levulinic acid (25 mM),environmental stress
+-0.29708370570251813,36,2,Levulinic acid (25 mM),environmental stress
+0.9755167205172119,37,1,Levulinic acid (50 mM),environmental stress
+-0.4347816411177904,37,2,Levulinic acid (50 mM),environmental stress
+1.3311166478997516,38,1,Levulinic acid (75 mM),environmental stress
+-0.4293364165665986,38,2,Levulinic acid (75 mM),environmental stress
+1.2015938417579133,39,1,Formic acid (25 mM),environmental stress
+-0.20937814634696758,39,2,Formic acid (25 mM),environmental stress
+1.3408896848109249,40,1,Formic acid (50 mM),environmental stress
+-0.27313592885825244,40,2,Formic acid (50 mM),environmental stress
+0.9832229968191404,41,1,Formic acid (75 mM),environmental stress
+-0.1928102825044118,41,2,Formic acid (75 mM),environmental stress
+1.2589437990937506,42,1,Glycerol (20°C),nutrient stress
+,42,2,Glycerol (20°C),nutrient stress
+0.8951699510686396,43,1,Melibiose (20°C),nutrient stress
+,43,2,Melibiose (20°C),nutrient stress
+1.2857498464562314,44,1,Sorbitol (20°C),nutrient stress
+-0.1593682065732487,44,2,Sorbitol (20°C),nutrient stress
+-0.4918960031026099,45,1,Ethanol (20°C),nutrient stress
+,45,2,Ethanol (20°C),nutrient stress
+,46,1,Galactose (20°C),nutrient stress
+-0.19513733315829968,46,2,Galactose (20°C),nutrient stress
+-0.6262269293140785,47,1,Fructose (20°C),nutrient stress
+0.08695911039086221,47,2,Fructose (20°C),nutrient stress
+-0.7098350951236388,48,1,Sucrose (20°C),nutrient stress
+0.1418568324358522,48,2,Sucrose (20°C),nutrient stress
+-0.8342882662214295,49,1,Maltose (20°C),nutrient stress
+,49,2,Maltose (20°C),nutrient stress
+-0.2931123861643106,50,1,Maltose (liquid),nutrient stress
+,50,2,Maltose (liquid),nutrient stress
+-1.221817105801038,51,1,Maltotriose (liquid),nutrient stress
+-0.371258287436439,51,2,Maltotriose (liquid),nutrient stress
+0.5026678698812752,52,1,Glucose (10°C),nutrient stress
+-0.15782537529134041,52,2,Glucose (10°C),nutrient stress
+0.520875560369185,53,1,Ethanol (10°C),nutrient stress
+-0.14565588463318999,53,2,Ethanol (10°C),nutrient stress
+0.5197713893122974,54,1,Fructose (10°C),nutrient stress
+-0.20472972703469652,54,2,Fructose (10°C),nutrient stress
+0.7132121249904682,55,1,Sucrose (10°C),nutrient stress
+,55,2,Sucrose (10°C),nutrient stress
+,56,1,Maltose (10°C),nutrient stress
+-0.2513052587621683,56,2,Maltose (10°C),nutrient stress
+0.7011734171192648,57,1,Glucose (39°C),nutrient stress
+-0.311872706701149,57,2,Glucose (39°C),nutrient stress
+0.8729793837794634,58,1,Ethanol (39°C),nutrient stress
+-0.32111088321073217,58,2,Ethanol (39°C),nutrient stress
+0.8835443957591514,59,1,Fructose (39°C),nutrient stress
+-0.2314177461617577,59,2,Fructose (39°C),nutrient stress
+0.9682187750257862,60,1,Sucrose (39°C),nutrient stress
+-0.23001262661783223,60,2,Sucrose (39°C),nutrient stress
+1.24081453476942,61,1,Maltose (39°C),nutrient stress
+-0.3837239508328867,61,2,Maltose (39°C),nutrient stress
+,62,1,Lysine,nutrient stress
+,62,2,Lysine,nutrient stress
+-0.6458345215527597,63,1,Ethyl propionate,aroma
+,63,2,Ethyl propionate,aroma
+-0.42808125114699436,64,1,Ethyl butyrate,aroma
+,64,2,Ethyl butyrate,aroma
+0.9664668109925932,65,1,Ethyl hexanoate,aroma
+-0.3519128371920579,65,2,Ethyl hexanoate,aroma
+0.6913224052663738,66,1,Ethyl octanoate,aroma
+,66,2,Ethyl octanoate,aroma
+,67,1,Ethyl decanoate,aroma
+-0.16573518566491846,67,2,Ethyl decanoate,aroma
+-0.7925181409217138,68,1,Propyl acetate,aroma
+,68,2,Propyl acetate,aroma
+,69,1,Isobutyl acetate,aroma
+,69,2,Isobutyl acetate,aroma
+,70,1,Ethyl acetate,aroma
+,70,2,Ethyl acetate,aroma
+,71,1,Isoamyl acetate,aroma
+-0.14344543725323067,71,2,Isoamyl acetate,aroma
+,72,1,Phenyl ethyl acetate,aroma
+-0.12524448169924046,72,2,Phenyl ethyl acetate,aroma
+,73,1,Phenyl ethanol,aroma
+,73,2,Phenyl ethanol,aroma
+,74,1,Butanol,aroma
+,74,2,Butanol,aroma
+,75,1,Isoamyl alcohol,aroma
+-0.13759679264534935,75,2,Isoamyl alcohol,aroma
+,76,1,Isobutanol,aroma
+,76,2,Isobutanol,aroma
+1.0492597285765097,77,1,POF,aroma
+-0.15075589964692374,77,2,POF,aroma
+-0.2606660716413578,78,1,Acetaldehyde,aroma
+,78,2,Acetaldehyde,aroma
+-0.7891743027546473,79,1,Flocculation,reproduction
+,79,2,Flocculation,reproduction
+1.484965630507773,80,1,Ethanol production,reproduction
+-0.25565181362266426,80,2,Ethanol production,reproduction
+1.4203340669414375,81,1,Sporulation efficiency,reproduction
+-0.1750592392636937,81,2,Sporulation efficiency,reproduction
+1.4039907326692487,82,1,Spore viability,reproduction
+-0.21137303241603367,82,2,Spore viability,reproduction
